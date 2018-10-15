@@ -10,5 +10,8 @@ package aisd_lab2;
  * @author lukasz nrlist:4
  */
 public class AISD_generowanie_test {
+    int [] V={3,4,5};
+    int [] W={1,3,4};
+    //V/w
     
 }
